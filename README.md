@@ -2,6 +2,8 @@
 Recreate Google search results page
 
 
-The Google result project is a more difficult rendition of the Google homepage project. I did not use the developer tools to come to the dimensions of every element. Instead, I created the layout using Flexbox (for the header), CSS Grid (for the body), table for the related searches box, and a regular box model for the footer by "eyeballing" the dimensions on the official Google result site and then comparing my page versus the aforementioned. Additionally, I have used, and will continue to use, new HTML and CSS elements/attributes to expose myself more to every facet of the two markup languages.
+The Google result project is a more difficult rendition of the Google homepage project. The project is to recreate the look and feel of the page without having to worry about functionality. Furthermore, the final product does not have to perfectly mirror the official site; the project only has to be similar. 
 
-Through this project, I further solidified my knowledge of CSS and HTML. I also gained additional experience working with layouts in both Flexbox and CSS Grid. I wish to further experiment with Flexbox/CSS Grid in future projects. 
+I did not use the developer tools to come to the dimensions of every element. Instead, I created the layout using Flexbox (for the header), CSS Grid (for the body), table for the related searches box, and a regular box model for the footer by "eyeballing" the dimensions on the official Google result site and then comparing my page versus the aforementioned. Additionally, I have used, and will continue to use, new HTML and CSS elements/attributes to expose myself more to every facet of the two markup languages.
+
+Through this project, I further solidified my knowledge of CSS and HTML. I also gained additional experience working with layouts/positions in both Flexbox and CSS Grid. I wish to further experiment with Flexbox/CSS Grid in future projects. 
